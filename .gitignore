@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+venv
+node_modules
+Thumbs.db
+*.jpg
+help
+*.md
