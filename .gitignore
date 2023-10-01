@@ -3,6 +3,7 @@ __pycache__
 venv
 node_modules
 Thumbs.db
+*.db
 *.jpg
 help
 *.md
